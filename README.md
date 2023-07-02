@@ -1,7 +1,7 @@
 # silly-contacter
 !!! Use this at your own risk. I am not held liable for any damage caused with this tool, I merely made it for fun. !!!
 
-# Dependencies:
+Dependencies:
 Requests - Python Module
 Random - Python Module
 Time - Python Module
